@@ -26,3 +26,10 @@ White matter is upstream.
 ## Version
 
 **MCM‑v1.0 — June 30, 2026**
+
+## Citation (Official)
+
+Moy, Michael. *The Myelin‑Centric Model of Strength (MCM‑v1.0).*  
+GitHub Repository: https://github.com/UncleMikeee/myelin-centric-model-of-strength  
+Version: MCM‑v1.0 — June 30, 2026.
+
